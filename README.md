@@ -5,7 +5,7 @@ Markdown for Vite2
 
 - Use Vue components in Markdown
 
-[![NPM version](https://img.shields.io/npm/v/vite-plugin-md?color=a1b858)](https://www.npmjs.com/package/vite-plugin-md)
+[![NPM version](https://img.shields.io/npm/v/vite-plugin-md?color=a1b858)](https://www.npmjs.com/package/vite2-md)
 
 ## Install
 
